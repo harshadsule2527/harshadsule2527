@@ -15,7 +15,7 @@ I build multilingual, speech-to-speech AI agents for enterprise IT support: real
   - Cut live-agent transfer delay from **~90s to immediate**; cleared 6 blocking defects in one day of log-driven debugging
   - Hardened for noisy calls: greeting noise gate, semantic VAD, Whisper hallucination filter, turn coalescing
   - Stopped mid-call language switching across English, Danish, German and Hindi
-- **[Leo](https://github.com/harshadsule2527/leo-assistant)**: my local-first, offline voice assistant. Wake word → faster-whisper → local LLM (Ollama) → Piper TTS, with tools, short/long-term memory and a permission gate.
+- **Leo** *(personal, in progress)*: my local-first, offline voice assistant. Wake word → faster-whisper → local LLM (Ollama) → Piper TTS, with tools, short/long-term memory and a permission gate. Happy to demo it.
 
 ### 🛠️ Tech I actually use
 
@@ -51,7 +51,6 @@ I build multilingual, speech-to-speech AI agents for enterprise IT support: real
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Leo Assistant](https://github.com/harshadsule2527/leo-assistant) | Offline voice assistant with tools and memory | faster-whisper, Piper, Ollama |
 | [Customer Behavior Prediction](https://github.com/harshadsule2527/API-model-for-Customer-Prediction-Application-) | Repeat-purchase prediction + SVD recommender behind a REST API | scikit-learn, Flask |
 | [Home Price Prediction](https://github.com/harshadsule2527/Home-Price-Prediction-using-FRED-API) | Macro time-series regression, explained with SHAP | FRED API, Random Forest, SHAP |
 | [AI Resume Analyzer](https://github.com/harshadsule2527/AI-Based-Resume-Analuzer) | Resume analysis and job matching with RAG | LangChain, FAISS, OpenAI, Streamlit |
