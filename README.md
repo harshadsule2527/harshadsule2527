@@ -1,17 +1,67 @@
-<h1 align="center">Hi 👋, I'm Harsh Adsule</h1>
-<h3 align="center">🌟 Tech-savvy Student Passionate about AI & Machine Learning | Eager to Contribute to a Company's AI Ambitions! Ready to Make an Impact! 👨‍💻</h3>
+# Hi, I'm Harsh 👋
 
-- 🌱 I’m currently learning **MLOPs**
+**AI Developer @ TCS · Building voice AI agents that hold up in real phone calls**
 
-- 💬 Ask me about **AI&ML, NLP, DS, GenAI, LLMs**
+I build multilingual, speech-to-speech AI agents for enterprise IT support: real callers, real phone lines, real tools behind them. Most of my day is making voice bots behave in production: cutting latency, killing hallucinated speech, fixing barge-in, and debugging from live call logs.
 
-- 📫 How to reach me **harshadsule1@gmail.com**
+📍 Mumbai, India · 💼 Open to **Voice AI / Conversational AI / Applied AI Engineer** roles
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RW9YFw3fWbma9IhTRQcphJQdNwQ_8d_8/view?usp=drive_link](https://drive.google.com/file/d/1RW9YFw3fWbma9IhTRQcphJQdNwQ_8d_8/view?usp=drive_link)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🎙️ What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- **Enterprise voice agent (TCS)**: a Level-1 IT service desk agent on **Azure OpenAI Realtime + FastAPI + WebSockets**, reachable over Genesys telephony and the browser. It calls **18 tools** (ticketing, knowledge base search, remote remediation, OTP-verified password and MFA resets, onboarding) and hands off to human agents.
+  - Migrated the browser and telephony pipelines from the retired preview Realtime API to the **GA v1 protocol** with bot behaviour unchanged
+  - Cut live-agent transfer delay from **~90s to immediate**; cleared 6 blocking defects in one day of log-driven debugging
+  - Hardened for noisy calls: greeting noise gate, semantic VAD, Whisper hallucination filter, turn coalescing
+  - Stopped mid-call language switching across English, Danish, German and Hindi
+- **[Leo](https://github.com/harshadsule2527/leo-assistant)**: my local-first, offline voice assistant. Wake word → faster-whisper → local LLM (Ollama) → Piper TTS, with tools, short/long-term memory and a permission gate.
+
+### 🛠️ Tech I actually use
+
+**Voice AI** &nbsp;
+![Azure OpenAI Realtime](https://img.shields.io/badge/Azure_OpenAI_Realtime-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white)
+![Piper TTS](https://img.shields.io/badge/Piper_TTS-555555?style=flat)
+
+**LLMs & Agents** &nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pinecone_·_FAISS-2E7D32?style=flat)
+
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_/_Cosmos_DB-47A248?style=flat&logo=mongodb&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+**ML** &nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF0D57?style=flat)
+
+**Cloud** &nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### 📂 Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Leo Assistant](https://github.com/harshadsule2527/leo-assistant) | Offline voice assistant with tools and memory | faster-whisper, Piper, Ollama |
+| [Customer Behavior Prediction](https://github.com/harshadsule2527/API-model-for-Customer-Prediction-Application-) | Repeat-purchase prediction + SVD recommender behind a REST API | scikit-learn, Flask |
+| [Home Price Prediction](https://github.com/harshadsule2527/Home-Price-Prediction-using-FRED-API) | Macro time-series regression, explained with SHAP | FRED API, Random Forest, SHAP |
+| [AI Resume Analyzer](https://github.com/harshadsule2527/AI-Based-Resume-Analuzer) | Resume analysis and job matching with RAG | LangChain, FAISS, OpenAI, Streamlit |
+| [AI Sales Agent](https://github.com/harshadsule2527/AI-Sales-Agent-Project) | Fine-tuned distilgpt2 for sales conversations | PyTorch, Transformers |
+
+### 🎓 Background
+
+BSc Computer Science (AI & ML) · Certified: Azure AZ-900, OCI Foundations, ML in Production (Coursera)
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-adsule-m2527)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadsule27@gmail.com)
